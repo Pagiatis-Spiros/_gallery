@@ -1,5 +1,5 @@
 ---
-author: epidrome
+author: (edit)epidrome
 image_url: /images/acme-editor.png
 title: Επεξεργαστής κειμένου ACME 
 year: 1992 
